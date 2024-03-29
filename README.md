@@ -6,6 +6,7 @@ Designed a dynamic and comprehensive Excel dashboard for a leading USA bank, add
 
 ## Screenshots
 
+![PSS (1)](https://github.com/jarsheenkaur/Bank-Loan-Data-Analysis-Dashboard/assets/152518497/4dbe4d14-7f80-408f-9afb-1ff7fa7cea5a)
 
 
 ## Key Takeaways
