@@ -16,3 +16,4 @@ Designed a dynamic and comprehensive Excel dashboard for a leading USA bank, add
 - Total Loan Amount Funded was $435.8 Million.
 - Total Loan Amount Received from borrowers was $473.1 Million.
 - Average Interest Rate is 12% and Average Debt-to-Income Ratio (DTI) is 13.3%.
+- Of Total Loans issued 86% were Good and 14% were Bad.
